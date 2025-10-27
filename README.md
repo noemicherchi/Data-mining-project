@@ -19,7 +19,8 @@ The best model found was random forest, with an accuracy of 83.02%, thanks to wh
 
 
 # Repository structure 
-'''
+```
+/
 ├── documentation/
 │   ├── chapter/          
 │   └── media/    
@@ -38,4 +39,4 @@ The best model found was random forest, with an accuracy of 83.02%, thanks to wh
 ├── documentation.pdf # complete documentation of the project
 └── README.md
 |__app.py
-'''
+```
